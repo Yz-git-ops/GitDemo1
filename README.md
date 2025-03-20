@@ -56,7 +56,7 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行 print(np.array([1, 2, 3]) ** 2)可输出结果
 
 ## 我最喜欢的环境管理工具是conda
-<"C:\Users\33916\Desktop\屏幕截图 2025-03-13 110123.png">width="800"
+<https://github.com/Yz-git-ops/GitDemo1/blob/master/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-13%20110123.png>width="800"
 
 ## 我可以在IDE上使用我建立的虚拟环境
 <"C:\Users\33916\Desktop\屏幕截图 2025-03-13 110403.png">width="800"
