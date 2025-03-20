@@ -1,7 +1,7 @@
 # 蜡笔小新的自我介绍
 
 <img src="["D:\demo\image\20200202134150_uavri.jpeg"](https://github.com/Yz-git-ops/GitDemo1/blob/master/20200202134150_uavri.jpeg)"width=“200” alt=“蜡笔小新形象”>
-
+大家好，我是蜡笔小新，我的身份是一名可爱的学生。以下是我的自我介绍：
 ---
 
 ## 基础档案
