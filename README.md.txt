@@ -1,6 +1,6 @@
 # 蜡笔小新的自我介绍
 
-<img src="C:\Users\33916\Desktop\20200202134150_uavri.jpeg"width=“200” alt=“蜡笔小新形象”>
+<img src=""D:\demo\image\20200202134150_uavri.jpeg""width=“200” alt=“蜡笔小新形象”>
 
 ---
 
