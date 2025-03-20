@@ -1,6 +1,6 @@
 # 蜡笔小新的自我介绍
 
-<img src=""D:\demo\image\20200202134150_uavri.jpeg""width=“200” alt=“蜡笔小新形象”>
+<img src="["D:\demo\image\20200202134150_uavri.jpeg"](https://github.com/Yz-git-ops/GitDemo1/blob/master/20200202134150_uavri.jpeg)"width=“200” alt=“蜡笔小新形象”>
 
 ---
 
